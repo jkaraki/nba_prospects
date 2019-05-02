@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556817309795.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4BDD6D46",
+    "lastKnownWriteTime" : 1556817431,
+    "last_content_update" : 1556817528951,
+    "path" : "~/Desktop/nba_prospects/nba_prospect_viz.R",
+    "project_path" : "nba_prospect_viz.R",
+    "properties" : {
+        "cursorPosition" : "3,39",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
