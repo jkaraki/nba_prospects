@@ -83,7 +83,7 @@ def scrape_first(player_links):
     player_data_02 = []
     start = time.time()
 
-    for count in range (2100,4286):
+    for count in range (0,4174):
         url = url_template.format(player=player_links[count])     #Create a handle, page, to handle the contents of the website
         page = requests.get(url)
         #Store the contents of the website under doc
