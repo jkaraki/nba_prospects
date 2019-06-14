@@ -1,4 +1,4 @@
-,Draft_Yr,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG_Perc,3P_Perc,FT_Perc,MP_per_G,PTS_per_G_per_G_per_G,TRB_per_G_per_G_per_G,AST_per_G_per_G_per_G,WS_per_G_per_G,WS_per_48,BPM,VORP
+,Draft_Yr,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG_Perc,3P_Perc,FT_Perc,MP_per_G,PTS_per_G_per_G,TRB_per_G_per_G,AST_per_G_per_G,WS_per_G,WS_per_48,BPM,VORP
 0,2008,1,CHI,Derrick Rose,University of Memphis,10,546,18104,10281,1910,3056,0.45299999999999996,0.304,0.8240000000000001,33.2,18.8,3.5,5.6,37.2,0.099,0.3,10.5
 1,2008,2,MIA,Michael Beasley,Kansas State University,11,609,13903,7568,2861,788,0.465,0.349,0.759,22.8,12.4,4.7,1.3,15.6,0.054000000000000006,-3.2,-4.3
 2,2008,3,MIN,O.J. Mayo,University of Southern California,8,547,16919,7574,1706,1607,0.429,0.373,0.82,30.9,13.8,3.1,2.9,21.8,0.062,-0.8,5.1

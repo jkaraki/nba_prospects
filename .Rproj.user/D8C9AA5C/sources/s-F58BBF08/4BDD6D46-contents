@@ -1,4 +1,0 @@
-library(tidyverse)
-
-merged <-player_data_2018 %>%
-  left_join(draft_data, by=c("Player"))
